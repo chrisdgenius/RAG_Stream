@@ -1,0 +1,10 @@
+PyPDF2==3.0.1
+openai==0.27.6
+streamlit
+altair==4
+python-dotenv==1.0.0
+langchain==0.0.184
+tiktoken
+faiss-cpu
+pandas
+Requests
